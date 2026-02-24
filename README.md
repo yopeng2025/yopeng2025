@@ -1,12 +1,12 @@
 # Yongjia.exe 👾
 
-📍 Manufactured in China  
-🇫🇷 Currently compiling in France  
+<!--📍 Manufactured in China  
+🇫🇷 Currently compiling in France --> 
 🎓 42 Student  
-💻 C / C++ survivor  
+💻 C / C++ 
 
 
-
+<!--
 ## 🏆 Life Achievements
 
 - 🌏 Fluent in Chinese & English  
@@ -14,7 +14,7 @@
 - 💬 Semi-fluent in Programming Languages  
 - 🐛 Professional Bug Creator → Bug Destroyer  
 - 🏆 Future Norminette Champion  
-
+-->
 
 
 ## 🛠️ Skills (Still Loading...)
@@ -22,8 +22,8 @@
 - C (manual memory enjoyer)  
 - C++ (constructors & destructors emotional damage)  
 - Git (commit → regret → recommit)  
-- Valgrind (my therapist)  
-- Makefile (dependency magician)  
+- Valgrind
+- Makefile
 
 
 
@@ -38,7 +38,7 @@
 - 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D  
 
 
-
+<!--
 ## ⚙️ System Status
 
 - RAM: Low  
@@ -50,3 +50,4 @@
 ---
 
 > Slightly broken, still compiling.
+-->
