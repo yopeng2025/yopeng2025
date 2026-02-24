@@ -3,7 +3,7 @@
 <!--📍 Manufactured in China  
 🇫🇷 Currently compiling in France --> 
 🎓 42 Student  
-💻 C / C++ 
+📍 Paris
 
 
 <!--
