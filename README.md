@@ -28,14 +28,16 @@
 
 
 ## 📦 Current Builds
-
+<!--
 - 🧱 **Libft** – Rebuilding the C standard library from scratch  
 - 🖨 **ft_printf** – Custom implementation of printf  
 - 📂 **get_next_line** – Efficient file descriptor line reader  
 - 📡 **minitalk** – UNIX signal-based client/server communication  
+-->
 - 🐚 **minishell** – Building a simplified UNIX shell  
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
 - 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D  
+
 
 
 <!--
