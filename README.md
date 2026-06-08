@@ -35,7 +35,8 @@
 - 📡 **minitalk** – UNIX signal-based client/server communication  
 -->
 - 🕸 **webserv** –  non-blocking HTTP server in C++98 （👩‍🔧in progress...）
-- 🐚 **minishell** – Building a simplified UNIX shell  
+- 🪣 **inception** – a multi-service infrastructure using Docker containers
+- 🐚 **minishell** – a simplified UNIX shell  
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
 - 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D
 
