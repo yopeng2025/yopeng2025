@@ -34,7 +34,7 @@
 - 📂 **get_next_line** – Efficient file descriptor line reader  
 - 📡 **minitalk** – UNIX signal-based client/server communication  
 -->
-- 🕸 **webserv** –  non-blocking HTTP server in C++98 （🧠in progress...）
+- 🕸 **webserv** –  non-blocking HTTP server in C++98 （👩‍🔧in progress...）
 - 🐚 **minishell** – Building a simplified UNIX shell  
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
 - 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D
