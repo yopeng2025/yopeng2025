@@ -19,11 +19,11 @@
 
 ## 🛠️ Skills (Still Loading...)
 
-- C (manual memory enjoyer)  
-- C++ (constructors & destructors emotional damage)  
-- Git (commit → regret → recommit)  
-- Valgrind
-- Makefile
+- C         (manual memory exploration)
+- C++       (constructors, destructors & OOP design)
+- Git       (version control & iteration)
+- Valgrind  (memory debugging)
+- Makefile  (build automation)
 
 
 
