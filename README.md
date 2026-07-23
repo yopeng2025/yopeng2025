@@ -2,8 +2,7 @@
 
 <!--📍 Manufactured in China  
 🇫🇷 Currently compiling in France --> 
-🎓 42 Student  
-📍 Paris
+📍 42 Paris
 
 
 <!--
@@ -33,8 +32,9 @@
 - 🖨 **ft_printf** – Custom implementation of printf  
 - 📂 **get_next_line** – Efficient file descriptor line reader  
 - 📡 **minitalk** – UNIX signal-based client/server communication  
+- 🏓 **transcendance** – (👩‍🔧in progress...🏗️)
 -->
-- 🕸 **webserv** –  non-blocking HTTP server in C++98 （👩‍🔧in progress...🏗️）
+- 🕸 **webserv** –  non-blocking HTTP server in C++98
 - 🪣 **inception** – a multi-service infrastructure using Docker containers
 - 🐚 **minishell** – a simplified UNIX shell  
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
