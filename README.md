@@ -34,6 +34,7 @@
 - 📡 **minitalk** – UNIX signal-based client/server communication  
 - 🏓 **transcendance** – (👩‍🔧in progress...🏗️)
 -->
+- 🌐 **transcendence** – a full-stack web application for building a modern interactive platform (👩‍🔧in progress...🏗️)
 - 🕸 **webserv** –  non-blocking HTTP server in C++98
 - 🪣 **inception** – a multi-service infrastructure using Docker containers
 - 🐚 **minishell** – a simplified UNIX shell  
