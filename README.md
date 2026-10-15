@@ -39,7 +39,7 @@
 - 🐚 **minishell** – a simplified UNIX shell  
 - 🍝 **philosopher** – solving the dining philosophers problem with threads and mutexes
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
-- 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D
+- 🧭 **cub3d** – raycasting 3D engine inspired by Wolfenstein 3D
 - 🪣 **inception** – a multi-service infrastructure using Docker containers
 
 
