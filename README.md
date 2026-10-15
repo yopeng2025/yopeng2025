@@ -36,11 +36,11 @@
 -->
 - 🌐 **transcendence** – a full-stack web application for building a modern interactive platform (👩‍🔧in progress...🏗️)
 - 🕸 **webserv** –  non-blocking HTTP server in C++98
-- 🪣 **inception** – a multi-service infrastructure using Docker containers
 - 🐚 **minishell** – a simplified UNIX shell  
 - 🍝 **philosophers** – solving the dining philosophers problem with threads and mutexes
 - 🎮 **so_long** – 2D graphical game using MiniLibX  
 - 🧭 **cub3d** – Raycasting 3D engine inspired by Wolfenstein 3D
+- 🪣 **inception** – a multi-service infrastructure using Docker containers
 
 
 
