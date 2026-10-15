@@ -34,13 +34,13 @@
 - 📡 **minitalk** – UNIX signal-based client/server communication  
 - 🏓 **transcendance** – (👩‍🔧in progress...🏗️)
 -->
-- 🌐 **transcendence** – a full-stack web application for building a modern interactive platform (👩‍🔧in progress...🏗️)
-- 🕸 **webserv** –  non-blocking HTTP server in C++98
-- 🐚 **minishell** – a simplified UNIX shell  
-- 🍝 **philosophers** – solving the dining philosophers problem with threads and mutexes
-- 🎮 **so_long** – 2D graphical game using MiniLibX  
-- 🧭 **cub3d** – raycasting 3D engine inspired by Wolfenstein 3D
-- 🪣 **inception** – a multi-service infrastructure using Docker containers
+- 🌐 **Transcendence** – a full-stack web application for building a modern interactive platform (👩‍🔧in progress...🏗️)
+- 🕸 **Webserv** –  non-blocking HTTP server in C++98
+- 🐚 **Minishell** – a simplified UNIX shell  
+- 🍝 **Philosophers** – solving the dining philosophers problem with threads and mutexes
+- 🎮 **So_long** – 2D graphical game using MiniLibX  
+- 🧭 **Cub3d** – raycasting 3D engine inspired by Wolfenstein 3D
+- 🪣 **Inception** – a multi-service infrastructure using Docker containers
 
 
 
